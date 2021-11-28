@@ -3,7 +3,7 @@
 Clone the Repo:
 
 ~~~
-git clone git@github.com:tutors-sdk/tutors-docusaurus.git
+git clone git@github.com:BenCapper/docusaurus.git
 ~~~
 
 Edit the files in the docs folder, then, in git bash, rebuild with:

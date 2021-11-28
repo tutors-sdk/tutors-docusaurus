@@ -11,3 +11,5 @@ icon:
 # Sample Course 2
 
 Tester site showing 'Remix' icons
+
+#course/hdip-course-remix.netlify.app

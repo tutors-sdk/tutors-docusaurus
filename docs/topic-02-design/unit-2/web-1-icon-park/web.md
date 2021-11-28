@@ -11,3 +11,5 @@ icon:
 # Sample Course 1
 
 Tester site showing 'Icon Park' icons
+
+course/hdip-course-icon-park.netlify.app
